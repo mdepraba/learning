@@ -1,0 +1,10 @@
+ini adalah file eksternal
+ini baris ke-2
+
+data
+no	nama
+1	chika
+2	tamti
+3	piggy
+4	pondol
+5	wooly
